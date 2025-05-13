@@ -107,6 +107,4 @@ win.mainloop()
 - Define o tamanho da janela: 400px de largura por 300px de altura.
 - `mainloop()`: inicia o loop da interface, mantendo a janela aberta.
 
----
 
-Quer que eu gere esse conteúdo todo como um `README.md` real com o título, gif, instruções de instalação, tudo no esquema? Posso montar agora.
